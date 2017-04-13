@@ -1,0 +1,16 @@
+﻿body {
+    margin-top:100px;
+    text-align:center;
+    
+}
+h1{
+    color:darkblue;
+}
+.output {
+    font-size: x-large;
+    color: red;
+}
+.myCal{
+    width:500px;
+    margin:auto;
+}
